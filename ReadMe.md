@@ -6,7 +6,7 @@ The goal of this repo is to maintain clean, well-documented, and executable code
 
 ---
 
-## 🚀 Learning Roadmap & Highlights
+##  Learning Roadmap & Highlights
 
 The exercises are categorized by complexity, capturing a full spectrum of Java development:
 
@@ -29,7 +29,7 @@ The exercises are categorized by complexity, capturing a full spectrum of Java d
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The code is organized logically into packages inside the source directory, guiding you through the transition from simpler logic to highly decoupled architectures:
 
