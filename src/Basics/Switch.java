@@ -45,10 +45,6 @@ public class Switch {
                 break;
         }
 
-        if (validOperation) {
-            System.out.println("The result is: " + result);
-        }
-
         scanner.close();
     }
 }
